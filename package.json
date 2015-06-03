@@ -1,0 +1,33 @@
+{
+  "name": "yojs",
+  "version": "0.1.0",
+  "description": "YoJS is a dead simple Node.js module for the Yo API.",
+  "main": "yo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anubisss/yojs.git"
+  },
+  "keywords": [
+    "yo",
+    "just yo",
+    "api",
+    "wrapper",
+    "simple",
+    "dead simple"
+  ],
+  "author": "David Vas, anuka <david.vas1@gmail.com>",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/Anubisss/yojs/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/Anubisss/yojs/issues"
+  },
+  "homepage": "https://github.com/Anubisss/yojs",
+  "dependencies": {
+    "request": "^2.57.0"
+  }
+}
